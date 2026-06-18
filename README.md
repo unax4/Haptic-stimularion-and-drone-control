@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/3ec4f5fe-c9a3-4445-a7a5-0c5c6bd47a52
+
 # Haptic Stimulation and Drone Control
 
 This repository contains the code and technical material for a thesis project on glove-based drone control with electro-tactile feedback.
