@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/3ec4f5fe-c9a3-4445-a7a5-0c5c6bd47a52
 
 # Haptic Stimulation and Drone Control
 
-This repository contains the code and technical material for a thesis project on glove-based drone control with electro-tactile feedback.
+This repository contains the code and technical material for a project on glove-based drone control with electro-tactile feedback.
 
 The development path of the project is reflected in two main firmware branches:
 
@@ -24,17 +24,6 @@ The development path of the project is reflected in two main firmware branches:
 - `control_pcb/`
   Standalone sketch for validating the electro-tactile PCB independently of the drone-control firmware.
 
-- `TFM_Guante_Haptico/`
-  Thesis source files.
-
-- `captures/`
-  Captured data and support material shared at repository level.
-
-- `etc/`
-  Local support material and private historical backups kept outside the public project structure.
-
-- `papatxe_copy_20260528154051/`
-  Historical snapshot kept as backup/reference material.
 
 ## Main active firmware
 
